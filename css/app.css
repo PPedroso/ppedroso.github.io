@@ -5,6 +5,10 @@ html, body {
     color:white
 }
 
+
+.container {
+    height:100vh
+}
 .page {
     background-color: #100e0e;
 }
